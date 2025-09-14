@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+	font-family: cursive;
+	font-weight: bolder;
+	color: #D627D6 ;
+}
+
+    img {
+      display: block; /* Make the image a block-level element */
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    p{
+    	font-weight: bolder;
+    	color: #380838;
+    }
+
+    body{
+    	background-color: #F0DDF0;
+    }
+
+    .underline-text{
+    	text-decoration: underline;
+    }
+
+    li{
+    	font-family: sans-serif;
+    }
